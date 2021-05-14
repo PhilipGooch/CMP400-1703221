@@ -1,0 +1,3 @@
+Manipulate gravity in all applications with W A S D.
+
+Manipulate number of particles in GPU Uniform Grid in main.cpp at the top of the file.
